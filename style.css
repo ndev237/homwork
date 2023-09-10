@@ -1,0 +1,13 @@
+h1{
+    color: aqua;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+p{
+font-style: italic;
+font-size: medium;
+font-weight: bold;
+color: darkgreen;
+}
